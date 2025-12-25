@@ -1,5 +1,5 @@
 # Iosevka Font Builder
-[![BUILD](https://img.shields.io/github/actions/workflow/status/shouethereal/Iosevka-builder/build.yml?style=for-the-badge&logo=github)](https://github.com/shouethereal/revanced-root-module/actions/workflows/ci.yml)
+[![BUILD](https://img.shields.io/github/actions/workflow/status/shouethereal/Iosevka-builder/build.yml?style=for-the-badge&logo=github)](https://github.com/shouethereal/Iosevka-builder/actions/workflows/ci.yml)
 [![RELEASE](https://img.shields.io/github/v/release/shouethereal/Iosevka-builder?style=for-the-badge&color=blue)](https://github.com/shouethereal/Iosevka-builder/releases)
 [![LICENSE](https://img.shields.io/github/license/shouethereal/Iosevka-builder?style=for-the-badge)](https://github.com/shouethereal/Iosevka-builder/blob/main/LICENSE)
 
