@@ -91,7 +91,7 @@ jobs:
         with:
           files: artifacts/IosevkaCustom.zip
           tag_name: ${{ github.run_number }}
-          name: "Iosevka ${{ github.run_number }}"
+          name: "Iosevka"
           body_path: artifacts/update.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
